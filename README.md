@@ -56,7 +56,7 @@ Ecommerce-Store/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Choubi-Mohammed/Ecommerce-Store-redux.git
+   git clone https://github.com/Choubi-Mohammed/Ecommerce-Store-with-Redux.git
    ```
 
 2. Navigate to the project directory:
